@@ -1,0 +1,37 @@
+Brand,Model,Type,Year,EnginePower,TopSpeed,Acceleration,Airbags,CollisionWarning,ParkingSensor,ABS,CruiseControl,BlindSpotDetection,LeatherSeats,SoundSystem,Recliner,SuspensionRating,VoiceControl,Sunroof,StarlightRoof,MinPrice,MaxPrice
+Toyota,Camry,Sedan,2020,203,120,7.6,6,true,true,true,true,false,true,true,false,4,false,false,false,24425,35200
+Honda,Civic,Sedan,2019,174,125,7.5,6,true,true,true,true,false,false,false,false,3,false,false,false,21150,28400
+BMW,X5,SUV,2021,335,155,5.3,10,true,true,true,true,true,true,true,true,5,true,true,true,59800,82800
+Mercedes,A-Class,Hatchback,2022,188,140,6.2,9,true,true,true,true,true,true,true,false,4,true,true,true,33600,46200
+Audi,A6,Sedan,2022,335,155,5.1,8,true,true,true,true,true,true,true,true,5,true,true,false,54900,69400
+Tesla,Model 3,Sedan,2021,283,145,5.0,8,true,true,true,true,true,true,true,true,5,true,true,true,39990,59990
+Chevrolet,Suburban,SUV,2021,420,130,6.9,10,true,true,true,true,true,true,true,true,5,true,true,true,52500,78000
+Ford,Mustang,Coupe,2020,450,155,4.3,6,false,true,true,false,false,true,true,true,5,false,true,false,27155,47000
+Toyota,RAV4,SUV,2020,203,120,8.0,6,true,true,true,true,false,true,false,false,3,false,false,false,26650,35880
+Honda,Accord,Sedan,2022,252,130,6.5,8,true,true,true,true,true,true,true,false,5,true,false,false,26720,36600
+BMW,3 Series,Sedan,2020,255,130,5.6,8,true,true,true,true,true,true,true,true,5,true,true,false,41300,56600
+Ford,F-150,Truck,2022,400,120,5.5,8,true,true,true,true,true,true,true,true,5,true,true,false,29740,70000
+Toyota,Highlander,SUV,2022,295,130,7.2,8,true,true,true,true,true,true,false,false,4,true,false,false,35185,49500
+Mercedes,C-Class,Sedan,2021,255,130,5.7,9,true,true,true,true,true,true,true,false,4,true,true,false,41900,55800
+Audi,Q5,SUV,2023,261,130,5.7,8,true,true,true,true,true,true,true,false,4,true,true,false,43800,61000
+Honda,CR-V,SUV,2021,190,130,7.8,8,true,true,true,true,true,false,true,false,4,true,true,false,25325,35300
+Tesla,Model S,Sedan,2022,670,163,2.3,8,true,true,true,true,true,true,true,true,5,true,true,true,94990,129990
+Chevrolet,Tahoe,SUV,2022,355,130,7.4,10,true,true,true,true,true,true,true,true,5,true,true,true,50900,77300
+BMW,5 Series,Sedan,2022,335,155,5.1,8,true,true,true,true,true,true,true,true,5,true,true,false,54900,74400
+Ford,Explorer,SUV,2024,300,130,6.5,8,true,true,true,true,true,true,true,false,4,true,true,true,33475,55000
+Toyota,4Runner,SUV,2020,270,115,7.7,8,true,true,true,true,true,true,false,false,3,false,false,false,36640,50400
+Mercedes,E-Class,Sedan,2020,362,155,4.9,9,true,true,true,true,true,true,true,true,5,true,true,true,54950,74800
+Audi,A4,Sedan,2020,201,130,6.0,8,true,true,true,true,true,true,true,true,4,true,true,false,39700,50600
+Tesla,Model X,SUV,2024,670,163,2.5,8,true,true,true,true,true,true,true,true,5,true,true,true,99990,120000
+Honda,Pilot,SUV,2022,280,130,6.9,10,true,true,true,true,true,true,false,false,4,true,true,false,38200,50800
+Chevrolet,Silverado,Truck,2021,420,120,5.9,8,true,true,true,true,true,true,true,false,4,true,true,false,29295,61000
+BMW,X3,SUV,2020,248,130,6.0,8,true,true,true,true,true,true,false,false,4,true,true,false,43900,68000
+Ford,Ranger,Truck,2022,270,120,6.8,6,true,true,true,true,true,false,false,false,4,false,false,false,25300,41000
+Toyota,Land Cruiser,SUV,2021,381,130,7.3,10,true,true,true,true,true,true,true,true,5,true,true,false,85315,91000
+Mercedes,GLC,SUV,2021,255,130,6.2,9,true,true,true,true,true,true,true,false,4,true,true,true,45450,62000
+Audi,Q7,SUV,2022,335,130,5.7,8,true,true,true,true,true,true,true,true,5,true,true,true,56300,71500
+Honda,Fit,Hatchback,2020,128,118,8.6,6,true,false,true,true,false,false,false,false,3,false,false,false,16300,21500
+Chevrolet,Blazer,SUV,2020,308,130,6.3,8,true,true,true,true,true,true,false,false,3,false,false,false,28195,44400
+Tesla,Model Y,SUV,2021,384,155,3.5,8,true,true,true,true,true,true,true,true,5,true,true,true,59990,71990
+Ford,Escape,SUV,2021,250,115,7.0,6,true,true,true,true,true,false,false,false,3,false,false,false,25555,36000
+Toyota,Sienna,Minivan,2021,245,115,6.8,8,true,true,true,true,true,false,false,false,4,false,false,false,35325,48900
